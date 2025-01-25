@@ -88,6 +88,18 @@
       "height": 135
     },
     {
+      "name": "run 1",
+      "imageUrl": "/assets/img/run1.webp",
+      "url": "openAg('https://freezenova.github.io/run-1.html')",
+      "height": 135
+    },
+    {
+      "name": "run 2",
+      "imageUrl": "/assets/img/run2.webp",
+      "url": "openAg('https://gnhustgames.github.io/run2/')",
+      "height": 135
+    },
+    {
       "name": "Run 3",
       "imageUrl": "/assets/img/run3.webp",
       "url": "openAg('https://bonbang.github.io/store99/run-3')"
@@ -265,21 +277,69 @@
       "height": 135
     },
     {
-      "name": "Free Fire",
-      "imageUrl": "/assets/img/freefire.webp",
-      "url": "openAg('https://now.gg/apps/garena-international-i/1398/free-fire.html')",
+      "name": "Snow Rider 3D",
+      "imageUrl": "/assets/img/snowrider.webp",
+      "url": "openAg('https://snow-rider3d.github.io/file/')",
       "height": 135
     },
     {
-      "name": "Snow Rider 3D",
-      "imageUrl": "/assets/img/snowrider.webp",
-      "url": "openAg('https://gamesroid.com/snow-rider-3d-unblocked/')",
+      "name": "Drift Boss",
+      "imageUrl": "/assets/img/driftboss.webp",
+      "url": "openAg('https://usecosmic.github.io/games/Driftboss/index.html')",
       "height": 135
     },
     {
       "name": "There is No Game",
       "imageUrl": "/assets/img/there-is-no-gms.webp",
       "url": "openAg('https://23azostore.github.io/s/there-is-no-game/')",
+      "height": 135
+    },
+    {
+      "name": "FNAF 1",
+      "imageUrl": "/assets/img/fnaf1.webp",
+      "url": "openAg('https://yexfr.github.io/fnaf/fnaf-1/index.html')",
+      "height": 135
+    },
+    {
+      "name": "FNAF 2",
+      "imageUrl": "/assets/img/fnaf2.webp",
+      "url": "openAg('https://r8r7.github.io/jonathanrivera/games/fnaf-2/')",
+      "height": 135
+    },
+    {
+      "name": "FNAF 3",
+      "imageUrl": "/assets/img/fnaf3.webp",
+      "url": "openAg('https://r8r7.github.io/jonathanrivera/games/fnaf-3/')",
+      "height": 135
+    },
+    {
+      "name": "FNAF 4",
+      "imageUrl": "/assets/img/fnaf4.webp",
+      "url": "openAg('https://r8r7.github.io/jonathanrivera/games/fnaf-4/')",
+      "height": 135
+    },
+    {
+      "name": "Block Blast",
+      "imageUrl": "/assets/img/blockblast.webp",
+      "url": "openAg('https://reunbozdo.github.io/')",
+      "height": 135
+    },
+    {
+      "name": "PolyTrack",
+      "imageUrl": "/assets/img/polytrack.webp",
+      "url": "openAg('https://iammyguy21th.github.io/polytrack.3/')",
+      "height": 135
+    },
+    {
+      "name": "Cluster Rush",
+      "imageUrl": "/assets/img/clusterrush.webp",
+      "url": "openAg('https://far0ffgames.github.io/Strg/cluster-rush/game/index.html')",
+      "height": 135
+    },
+    {
+      "name": "Bloxorz",
+      "imageUrl": "/assets/img/block.webp",
+      "url": "openAg('https://ubg89.github.io/Bloxorz/')",
       "height": 135
     }
   ]
