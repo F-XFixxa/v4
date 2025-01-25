@@ -265,6 +265,18 @@
       "height": 135
     },
     {
+      "name": "Free Fire",
+      "imageUrl": "/assets/img/freefire.webp",
+      "url": "openAg('https://now.gg/apps/garena-international-i/1398/free-fire.html')",
+      "height": 135
+    },
+    {
+      "name": "Snow Rider 3D",
+      "imageUrl": "/assets/img/snowrider.webp",
+      "url": "openAg('https://gamesroid.com/snow-rider-3d-unblocked/')",
+      "height": 135
+    },
+    {
       "name": "There is No Game",
       "imageUrl": "/assets/img/there-is-no-gms.webp",
       "url": "openAg('https://23azostore.github.io/s/there-is-no-game/')",
